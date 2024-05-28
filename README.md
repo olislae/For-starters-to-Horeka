@@ -11,3 +11,9 @@ Right now there are two job submission examples. You can change the #SBATCH sett
 https://www.nhr.kit.edu/userdocs/horeka/batch/
 
 You are encouraged to look through the whole Horeka tutorial. It's a very important and useful document for the beginners of Horeka!!!
+
+# job submission
+$sbatch Job_submit_gpu.sh
+
+# check the status of submitted job
+$squeue
