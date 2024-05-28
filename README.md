@@ -7,7 +7,7 @@ Please feel free to ask questions and share your answers on the Discussions boar
 
 I will upload more files that I find useful. Suggestions and contributions are warmly welcomed!
 
-Right now there are two job submission examples. You can change the #SBATCH settings as you want, referring to the Batch system section of the Horeka tutorial:
+Right now there are two job submission examples. You can change the #SBATCH --xxx settings as you want, referring to the Batch system section of the Horeka tutorial:
 https://www.nhr.kit.edu/userdocs/horeka/batch/
 
 You are encouraged to look through the whole Horeka tutorial. It's a very important and useful document for the beginners of Horeka!!!
