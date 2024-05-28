@@ -1,4 +1,4 @@
-# For-starters-to-Horeka
+# For-Beginners-to-Horeka
 This directory provides some documents, most common commands and tutorials for beginners of Horeka. E.g., job submission file (on cpu/gpu nodes), etc. 
 
 It is mainly built for the beginners of the HPC system, especially for bachelor and master students to start on a HPC.
